@@ -1,0 +1,21 @@
+{
+    "name": "olayemiolaomo/elastic-logger",
+    "description": "This package helps product to log to elastic console",
+    "type": "librrary",
+    "require": {
+        "laravel/framework": "8.83"
+    },
+    "license": "MIT License",
+    "autoload": {
+        "psr-4": {
+            "Olayemiolaomo\\ElasticLogger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Olayemi Olaomo",
+            "email": "olayemiolaomo5@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
